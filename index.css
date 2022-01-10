@@ -3,12 +3,24 @@ body{
     padding: 0;
 }
 .landing{
-    background-image: url(assets/5651999.jpg);
+    background-image: url(assets/5652012.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
 }
 .navbar-brand{
     color:crimson;
-    font-size: 100px;
+   
+}
+.navbar-nav{
+    
+    margin-left: 900px;
+}
+.nav-item a{
+    text-decoration: none;
+    color:white;
+    font-size: x-large;
+}
+.nav-item a:hover{
+    color: crimson;
 }
