@@ -25,13 +25,14 @@ body{
     color: crimson;
 }
 #landing1{
-    width:1500px;
+
     box-shadow: 5x 5px 5px 5px #151c2e;
     margin-left: 59%;
     margin-bottom: 10%;
 }
 #about{
     background-color: white;
+    margin-bottom: 20px;
 }
 #aboutimg{
     border-radius: 50%;
@@ -42,4 +43,18 @@ body{
 #details{
     margin-top: 70px;
    
+}
+#service{
+    margin-top: 50px;
+}   
+#subservice{
+margin-left: 400px;
+margin-top: 30px;
+}  
+
+#service1{
+    width:300px;
+    height:100px;
+    background-color: #211a23;
+    padding-right: 50px;
 }
