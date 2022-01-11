@@ -24,3 +24,22 @@ body{
 .nav-item a:hover{
     color: crimson;
 }
+#landing1{
+    width:1500px;
+    box-shadow: 5x 5px 5px 5px #151c2e;
+    margin-left: 59%;
+    margin-bottom: 10%;
+}
+#about{
+    background-color: white;
+}
+#aboutimg{
+    border-radius: 50%;
+   margin-top: 60px;
+   margin-left: 150px;
+    
+}
+#details{
+    margin-top: 70px;
+   
+}
