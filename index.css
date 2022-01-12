@@ -1,4 +1,4 @@
-html, body {
+ body {
     max-width: 100%;
     overflow-x: hidden;
     margin: 0;
@@ -90,4 +90,12 @@ margin-bottom: 100px;
 #myskills{
     background-color: white;
     margin-bottom: 20px;
+}
+#skills{
+    padding-left: 100px;
+}
+#skillprogress{
+    margin-top: 20px;
+    padding-right: 200px;
+   padding-top: 50px;
 }
