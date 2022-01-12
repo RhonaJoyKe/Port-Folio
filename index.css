@@ -107,6 +107,9 @@ margin-top: 20px;
 margin-bottom: 20px;
 
 }
+#img1:hover {
+    transform: scale(1.5);
+}
 #project2{
 margin-top: 20px;
 display: flex;
@@ -118,6 +121,7 @@ margin-bottom: 100px;
     height:200px;
     box-shadow: 5px 5px 2px 2px white; 
     margin-right: 50px;
+    
 }
 #pro2{
     width:400px;
