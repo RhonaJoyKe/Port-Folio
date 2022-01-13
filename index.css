@@ -132,14 +132,18 @@ margin-bottom: 100px;
 #part1{
     box-shadow: 5px 5px 5px 5px black;
     width: 500px;
-    
-    height: 700px;
+    background-image: url(/assets/contact.jpg);
+    background-color: transparent;
+    height: 400px;
 }
 form{
 
     box-shadow: 5px 5px 5px 5px black;
-    padding: 50px;
-    background-color: 	transparent;
+    padding: 15px;
+    background-color: 	black;
+
+}
+.contact-about{
 
 }
 .form-group input{
@@ -150,6 +154,7 @@ form{
     box-shadow: 3px 3px 3px 3px black;
 }
 #contactme{
+    margin-top: 30px;
     background-color: white;
     height: 200px;
 }
