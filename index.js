@@ -53,7 +53,7 @@ window.onload = (event) => {
   };
   
   var i = 0,txt ;
-  var txt = 'Software Developer';
+  var txt = 'Fullstack Software Developer.';
   
   // Speed in milliseconds
   var speed = 300;
