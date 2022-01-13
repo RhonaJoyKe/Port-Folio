@@ -12,6 +12,14 @@ jQuery(document).ready(function() {
   $( this ).fadeOut( 100 );
   $( this ).fadeIn( 500 );
   });
+  $( "#img1" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+    });
+  $( "#service3" ).hover(function() {
+      $( this ).fadeOut( 100 );
+      $( this ).fadeIn( 500 );
+      });
   
   
     
@@ -40,12 +48,12 @@ jQuery(document).ready(function() {
 
 window.onload = (event) => {
     animateWelcomeText();
-  
+
    
   };
   
   var i = 0,txt ;
-  var txt = 'HELLO WELCOME TO FELICE PIZZA PLACE EVERY  DAY IS A GOOD DAY FOR SOME PIZZA!';
+  var txt = 'Fullstack Software Developer.';
   
   // Speed in milliseconds
   var speed = 300;

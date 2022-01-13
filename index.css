@@ -9,6 +9,9 @@
     background-image: url(assets/5652012.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 5px;
     
 }
 .navbar-brand{
@@ -30,8 +33,9 @@
 #landing1{
 
     box-shadow: 5x 5px 5px 5px #151c2e;
-    margin-left: 59%;
-    margin-bottom: 10%;
+   
+   
+ 
 }
 #about{
     background-color: white;
@@ -43,6 +47,13 @@
    margin-left: 150px;
     
 }
+.animation{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 40px;
+}
 #details{
     margin-top: 70px;
    
@@ -51,6 +62,8 @@
     margin-top: 50px;
     background-color: black; 
     margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
 
 }   
 #subservice{
@@ -86,6 +99,8 @@ margin-bottom: 100px;
 #myskills{
     background-color: white;
     margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 #skills{
     padding-left: 100px;
@@ -99,6 +114,8 @@ margin-bottom: 100px;
     background-color: black;
     display: block;
     height: 800px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 #project1{
 display: flex;
@@ -107,9 +124,7 @@ margin-top: 20px;
 margin-bottom: 20px;
 
 }
-#img1:hover {
-    transform: scale(2.0);
-}
+
 #project2{
 margin-top: 20px;
 display: flex;
@@ -134,16 +149,22 @@ margin-bottom: 100px;
     width: 500px;
     background-image: url(/assets/contact.jpg);
     background-color: transparent;
-    height: 400px;
+    height: 600px;
 }
 form{
 
     box-shadow: 5px 5px 5px 5px black;
     padding: 15px;
     background-color: 	black;
+    
 
 }
 .contact-about{
+    
+    margin-right: 30px;
+    float: center;
+    font-size: 15px;
+    
 
 }
 .form-group input{
@@ -155,6 +176,10 @@ form{
 }
 #contactme{
     margin-top: 30px;
-    background-color: white;
-    height: 200px;
+    background-color:white;
+    height: 800px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    
 }
