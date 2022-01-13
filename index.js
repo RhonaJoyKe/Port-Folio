@@ -17,9 +17,9 @@ jQuery(document).ready(function() {
     
 
     document.getElementById("submit").addEventListener(("click"), function () {
-      let userName =document.getElementById("name").value
+      let userName =document.getElementById("contact-name").value
         let email=document.getElementById("email").value
-        let  message=document.getElementById("texta").value
+        let  message=document.getElementById("contact-message").value
         const em= /^(([^<>()[\]\.,;:\s@\"]+(\.[^<>()[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
         if(userName===null||userName===""){
         alert("Please Write your Name")
