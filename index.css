@@ -98,47 +98,48 @@ margin-bottom: 100px;
 #myprojects{
     background-color: black;
     display: block;
-    height: 700px;
+    height: 800px;
 }
 #project1{
 display: flex;
-margin-left: 20%;
+margin-left: 10%;
 margin-top: 20px;
 margin-bottom: 20px;
 
 }
 #img1:hover {
-    transform: scale(1.5);
+    transform: scale(2.0);
 }
 #project2{
 margin-top: 20px;
 display: flex;
-margin-left: 20%;
+margin-left: 10%;
 margin-bottom: 100px;
 }
 #pro1{
-    width:400px;
-    height:200px;
+    width:500px;
+    height:250px;
     box-shadow: 5px 5px 2px 2px white; 
     margin-right: 50px;
     
 }
 #pro2{
-    width:400px;
-    height:200px;
-    margin-right: 50px;
+    width:500px;
+    height:250px;
+    margin-right: 30px;
     box-shadow: 5px 5px 5px 5px white; 
 }
 #part1{
     box-shadow: 5px 5px 5px 5px black;
     width: 500px;
-    background-color:	#383838;
+    
+    height: 700px;
 }
 form{
 
     box-shadow: 5px 5px 5px 5px black;
     padding: 50px;
-    background-color: 	#383838;
+    background-color: 	transparent;
 
 }
 .form-group input{
